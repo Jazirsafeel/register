@@ -6,7 +6,7 @@
     "email": "jazirsafeelps@gmail.com"
   },
   "records": {
-    "CNAME": ["185.27.134.120"]
+    "A": ["185.27.134.120"]
   }
   
 }
